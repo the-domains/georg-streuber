@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ars vita english
-datePublished: '2015-12-27T21:31:09.748Z'
-dateModified: '2015-12-27T21:30:44.953Z'
+datePublished: '2015-12-27T21:46:47.608Z'
+dateModified: '2015-12-27T21:46:35.121Z'
 title: Biography
 author: []
 sourcePath: _posts/2015-12-27-biography.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: biography/index.html
-_type: Article
+_type: WebPage
 
 ---
 Georg Streuber began his vocal training under Sebastian Richter's and Regine Köhler's guidance in Chemnitz. He attended the Landesgymnasium für Musik Dresden as Prof. Matthias Weichert's student from 2005 to 2007 and took courses at the academy of music "Carl-Maria von Weber" in Dresden until 2013\.
