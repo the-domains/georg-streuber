@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: legal information
-datePublished: '2015-12-27T21:50:23.859Z'
-dateModified: '2015-12-27T21:50:02.296Z'
+datePublished: '2015-12-27T22:10:37.767Z'
+dateModified: '2015-12-27T22:10:35.493Z'
 title: impressum
 author: []
+sourcePath: _posts/2015-12-27-impressum.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-27-impressum.md
-published: true
 url: impressum/index.html
 _type: WebPage
 
