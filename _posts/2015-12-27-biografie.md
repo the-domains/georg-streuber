@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: german biography of Georg Streuber
-datePublished: '2015-12-27T22:07:07.965Z'
-dateModified: '2015-12-27T22:04:08.109Z'
+datePublished: '2015-12-27T22:09:58.732Z'
+dateModified: '2015-12-27T22:09:25.162Z'
 title: Biografie
 author: []
 authors: []
