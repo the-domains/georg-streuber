@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: german biography of Georg Streuber
-datePublished: '2015-12-27T22:16:07.684Z'
-dateModified: '2015-12-27T22:15:32.703Z'
-title: Biografie
+datePublished: '2015-12-27T22:45:29.775Z'
+dateModified: '2015-12-27T22:45:26.916Z'
+title: Biografie dt
 author: []
 sourcePath: _posts/2015-12-27-biografie.md
 published: true
