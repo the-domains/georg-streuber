@@ -1,7 +1,7 @@
 name: Georg Streuber
 favicon: null
-layout_spectrum: 0.9406433692201972
-typography_spectrum: 0.5772427201736718
+layout_spectrum: 0.74262
+typography_spectrum: 0.61437
 title: homepage
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.1686111472081393
-  lightness: 0.16452489444054663
-  saturation: 0.3257977997418493
-  rhythmicContrast: 0.21395099023357034
+    - '#ffffff'
+    - '#313830'
+    - '#9c9ba1'
+    - '#0f1910'
+    - '#6b7983'
+  brandStrength: 0.6875
+  lightness: 0.6875
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
