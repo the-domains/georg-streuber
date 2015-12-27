@@ -1,6 +1,6 @@
 name: Georg Streuber
 favicon: null
-layout_spectrum: 0.74262
+layout_spectrum: 1
 typography_spectrum: 0.61437
 title: homepage
 cta:
@@ -22,8 +22,8 @@ color:
     - '#9c9ba1'
     - '#0f1910'
     - '#6b7983'
-  brandStrength: 0.6875
+  brandStrength: 0.8125
   lightness: 0.6875
-  saturation: 0.75
-  rhythmicContrast: 0.75
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
