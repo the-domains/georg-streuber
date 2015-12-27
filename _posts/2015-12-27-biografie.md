@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: german biography of Georg Streuber
-datePublished: '2015-12-27T22:09:58.732Z'
-dateModified: '2015-12-27T22:09:25.162Z'
+datePublished: '2015-12-27T22:13:49.928Z'
+dateModified: '2015-12-27T22:13:45.072Z'
 title: Biografie
 author: []
+sourcePath: _posts/2015-12-27-biografie.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-27-biografie.md
-published: true
 url: biografie/index.html
-_type: WebPage
+_type: Article
 
 ---
 **Georg Streuber** begann seine Gesangsausbildung in seiner Heimatstadt Chemnitz bei Prof. Regine Köbler und Sebastian Richter. Erste musikalische Erfahrungen sammelte er bereits als Mitglied im Kinderchor der Chemnitzer Oper. Nach dem Schulabschluss am Landesgymnasium für Musik Dresden absolvierte er bis 2013 ein Gesangsstudium an der Dresdner Hochschule für Musik „Carl-Maria von Weber" bei Prof. Matthias Weichert. Seither ist er als freischaffender Opern- und Konzertsänger tätig.
