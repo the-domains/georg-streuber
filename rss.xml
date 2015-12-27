@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[homepage]]></title>
         <description><![CDATA[homepage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/georg-streuber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 21:30:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 21:31:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/georg-streuber/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Biography]]></title>
             <description><![CDATA[<article><h1>Biography</h1><p>Together with his duet partner Afra Su he did perform in successful Lied recitals in Cluj/Romania and Dresden/Germany. The intensive studies of Gustav Mahlers oevre in 2012 did end up in three remarkable concerts of pieces like "songs of a wayfarer" (Modena, teatro pavarotti, direttore d'orchestra: Andrea Barizza), Rueckert Lieder together with Prof. Christian Kluttig (Dresden) and "Lied von der Erde", version for chamber orchestra by A. Schoenberg (Dresden).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84eeebad96f75eb14dab2077114d14c0c18e61ce.jpg"></article>]]></description>
-            <link>undefinedbiography/index.html</link>
+            <link>https://thegrid.ai/georg-streuber/biography/index.html</link>
             <guid isPermaLink="false">85002b71-6238-4751-9c68-8b615d3a41b4</guid>
-            <pubDate>Sun, 27 Dec 2015 21:29:18 GMT</pubDate>
+            <pubDate>Sun, 27 Dec 2015 21:31:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
