@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[artist page]]></title>
         <description><![CDATA[artist page]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/georg-streuber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 22:13:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 22:13:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/georg-streuber/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Biografie]]></title>
+            <description><![CDATA[<article><h1>Biografie</h1><p>Georg Streuber begann seine Gesangsausbildung in seiner Heimatstadt Chemnitz bei Prof. Regine Köbler und Sebastian Richter. Erste musikalische Erfahrungen sammelte er bereits als Mitglied im Kinderchor der Chemnitzer Oper. Nach dem Schulabschluss am Landesgymnasium für Musik Dresden absolvierte er bis 2013 ein Gesangsstudium an der Dresdner Hochschule für Musik „Carl-Maria von Weber“ bei Prof. Matthias Weichert. Seither ist er als freischaffender Opern- und Konzertsänger tätig.</p></article>]]></description>
+            <link>https://thegrid.ai/georg-streuber/biografie/index.html</link>
+            <guid isPermaLink="false">dfb552b2-5483-4e71-b20a-993733745ab9</guid>
+            <pubDate>Sun, 27 Dec 2015 22:13:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[home]]></title>
-            <description><![CDATA[<article><h1>home</h1><p>main page</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8208dc3e754127c8156bb04626b00db63a50d21.jpg"></article>]]></description>
-            <link>undefinedhome/index.html</link>
+            <description><![CDATA[<article><h1>home</h1><p>main page</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7656eaec1e3f2c4bc257e0989d4ae0b51db03113.jpg"></article>]]></description>
+            <link>https://thegrid.ai/georg-streuber/home/index.html</link>
             <guid isPermaLink="false">3e8ef3d7-412c-4bfd-84f4-a5234117fb16</guid>
             <pubDate>Sun, 27 Dec 2015 22:12:24 GMT</pubDate>
         </item>
