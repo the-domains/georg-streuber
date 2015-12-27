@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: legal information
-datePublished: '2015-12-27T22:10:37.767Z'
-dateModified: '2015-12-27T22:10:35.493Z'
+datePublished: '2015-12-27T22:35:08.220Z'
+dateModified: '2015-12-27T22:35:05.104Z'
 title: impressum
 author: []
 sourcePath: _posts/2015-12-27-impressum.md
