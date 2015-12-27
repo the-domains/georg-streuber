@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: recordings with Georg Streuber
-datePublished: '2015-12-27T21:45:59.956Z'
-dateModified: '2015-12-27T21:45:29.040Z'
+datePublished: '2015-12-27T22:36:27.396Z'
+dateModified: '2015-12-27T22:34:19.171Z'
 title: discography
 author: []
+sourcePath: _posts/2015-12-27-discography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-27-discography.md
-published: true
 url: discography/index.html
-_type: WebPage
+_type: Article
 
 ---
 [Shakespeare songs of the clown][0]
