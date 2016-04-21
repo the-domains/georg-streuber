@@ -1,15 +1,15 @@
 analytics: {}
 color:
   brandColors:
-    - '#C0A8A8'
-    - '#201090'
-    - '#887040'
-    - '#10A8E8'
-    - '#000000'
-  brandStrength: 0.1875
-  lightness: 0.25
-  rhythmicContrast: 1
-  saturation: 0.0625
+    - '#FDFFFE'
+    - '#863903'
+    - '#410101'
+    - '#B08A5B'
+    - '#DFC094'
+  brandStrength: 0.653153
+  lightness: 0.652027
+  rhythmicContrast: 0.695945
+  saturation: 0.691441
 cta: {}
 layout_spectrum: 1
 name: Georg Streuber
