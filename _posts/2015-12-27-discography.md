@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: recordings with Georg Streuber
-datePublished: '2015-12-27T22:41:02.870Z'
-dateModified: '2015-12-27T22:41:00.206Z'
+datePublished: '2016-04-21T08:33:47.000Z'
+dateModified: '2015-12-27T22:41:04.795Z'
 title: discography
 author: []
 sourcePath: _posts/2015-12-27-discography.md
