@@ -6,10 +6,10 @@ color:
     - '#410101'
     - '#B08A5B'
     - '#DFC094'
-  brandStrength: 0.653153
-  lightness: 0.652027
-  rhythmicContrast: 0.695945
-  saturation: 0.691441
+  brandStrength: 0.833333
+  lightness: 0.332207
+  rhythmicContrast: 0.871621
+  saturation: 0.252252
 cta: {}
 layout_spectrum: 1
 name: Georg Streuber
