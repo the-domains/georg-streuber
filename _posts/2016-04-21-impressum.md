@@ -1,13 +1,12 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: Internetseiten-Betreiber
-datePublished: '2016-04-22T18:13:28.768Z'
-dateModified: '2016-04-22T18:13:00.700Z'
+datePublished: '2016-04-22T18:24:27.719Z'
+dateModified: '2016-04-22T18:24:25.727Z'
 title: Impressum
 author: []
 sourcePath: _posts/2016-04-21-impressum.md
@@ -19,6 +18,7 @@ publisher:
   url: null
   favicon: null
 starred: false
+url: impressum/index.html
 _context: 'http://schema.org'
 _type: Article
 
@@ -27,11 +27,7 @@ _type: Article
 
 Internetseiten-Betreiber
 
-Georg Streuber
-
-Böhmische Str. 38
-
-01099 Dresden
+Georg Streuber, Böhmische Str. 38, 01099 Dresden
 
 georgstreuber@googlemail.com
 
