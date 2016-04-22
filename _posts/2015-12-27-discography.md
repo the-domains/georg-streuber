@@ -3,12 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: recordings with Georg Streuber
-datePublished: '2016-04-21T08:33:47.000Z'
-dateModified: '2015-12-27T22:41:04.795Z'
-title: discography
+description: 'Johann Sebastian Bach, BWV 75, 194'
+datePublished: '2016-04-22T18:29:00.905Z'
+dateModified: '2016-04-22T18:28:28.932Z'
+title: ''
 author: []
 sourcePath: _posts/2015-12-27-discography.md
 published: true
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: discography/index.html
 _type: Article
 
