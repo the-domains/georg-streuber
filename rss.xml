@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Georg Streuber]]></title>
-        <description><![CDATA[Georg Streuber]]></description>
-        <link>https://thegrid.ai/georgstreuber/</link>
+        <title><![CDATA[artist website]]></title>
+        <description><![CDATA[artist website]]></description>
+        <link>https://thegrid.ai/georg-streuber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 18:23:37 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/georgstreuber/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 18:29:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/georg-streuber/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[discography]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86994bd7-c864-4441-87be-cb0c5a9f60d7.jpg">]]></description>
-            <link>https://thegrid.ai/georgstreuber/discography/index.html</link>
+            <link>https://thegrid.ai/georg-streuber/discography/index.html</link>
             <guid isPermaLink="false">6cf271e8-65cd-4cb7-95b7-54908baf71ec</guid>
-            <pubDate>Thu, 21 Apr 2016 08:33:47 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2016 18:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[media]]></title>
             <description><![CDATA[<p>Frühlingstraum, Winterreise D911, Franz Schubert</p>]]></description>
-            <link>https://thegrid.ai/georgstreuber/media/index.html</link>
+            <link>https://thegrid.ai/georg-streuber/media/index.html</link>
             <guid isPermaLink="false">fa7e8960-93bd-4c2e-8560-e88fe670502e</guid>
             <pubDate>Sun, 27 Dec 2015 22:46:20 GMT</pubDate>
         </item>
