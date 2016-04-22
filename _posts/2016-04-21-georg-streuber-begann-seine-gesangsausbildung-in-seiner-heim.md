@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-22T18:29:21.421Z'
-dateModified: '2016-04-22T18:29:19.025Z'
+datePublished: '2016-04-22T19:28:01.243Z'
+dateModified: '2016-04-22T19:23:04.445Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-georg-streuber-begann-seine-gesangsausbildung-in-seiner-heim.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-* Georg Streuber begann seine Gesangsausbildung in seiner Heimatstadt Chemnitz bei Prof. Regine Köbler und Sebastian Richter. Erste musikalische Erfahrungen sammelte er bereits als Mitglied im Kinderchor der Chemnitzer Oper. Nach dem Schulabschluss am Landesgymnasium für Musik Dresden absolvierte er bis 2013 ein Gesangsstudium an der Dresdner Hochschule für Musik „Carl-Maria von Weber" bei Prof. Matthias Weichert. 
+* **Georg Streuber** begann seine Gesangsausbildung in seiner Heimatstadt Chemnitz bei Prof. Regine Köbler und Sebastian Richter. Erste musikalische Erfahrungen sammelte er bereits als Mitglied im Kinderchor der Chemnitzer Oper. Nach dem Schulabschluss am Landesgymnasium für Musik Dresden absolvierte er bis 2013 ein Gesangsstudium an der Dresdner Hochschule für Musik „Carl-Maria von Weber" bei Prof. Matthias Weichert. 
 
 * Seither ist er als freischaffender Opern- und Konzertsänger tätig. Anregungen außerhalb des regulären Hochschulstudiums suchte er in Meisterkursen, Workshops und im Einzelunterricht bei Sängern wie Camilla Nylund, Martin Snell, Evelyn Herlitzius, KS Magdalena Hajossyová und Allison Oakes. Während des Studiums war er Mitglied der Liedklasse von KS Olaf Bär und Ulrike Siedel. 
 
