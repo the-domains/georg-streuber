@@ -1,15 +1,24 @@
 ---
-dateModified: '2016-04-21T17:49:02.163Z'
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
-starred: false
-title: Impressum
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
 description: Internetseiten-Betreiber
+datePublished: '2016-04-22T18:13:28.768Z'
+dateModified: '2016-04-22T18:13:00.700Z'
+title: Impressum
 author: []
-datePublished: '2016-04-21T17:49:29.200Z'
 sourcePath: _posts/2016-04-21-impressum.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
