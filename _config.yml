@@ -1,6 +1,6 @@
 name: Georg Streuber
 favicon: null
-layout_spectrum: 0.90323
+layout_spectrum: 1
 typography_spectrum: 0.61437
 title: artist website
 cta:
@@ -22,8 +22,8 @@ color:
     - '#410101'
     - '#B08A5B'
     - '#DFC094'
-  brandStrength: 0.6875
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.5
+  brandStrength: 0.125
+  lightness: 0.625
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
