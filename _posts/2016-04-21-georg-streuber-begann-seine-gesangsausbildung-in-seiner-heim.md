@@ -1,13 +1,12 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-22T18:16:45.032Z'
-dateModified: '2016-04-22T18:16:41.428Z'
+datePublished: '2016-04-22T18:24:37.845Z'
+dateModified: '2016-04-22T18:24:13.503Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-georg-streuber-begann-seine-gesangsausbildung-in-seiner-heim.md
@@ -19,6 +18,7 @@ publisher:
   url: null
   favicon: null
 starred: false
+url: deutsche-biografie/index.html
 _context: 'http://schema.org'
 _type: Article
 
