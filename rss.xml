@@ -4,7 +4,7 @@
         <description><![CDATA[artist website]]></description>
         <link>https://thegrid.ai/georg-streuber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 20:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 20:08:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/georg-streuber/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[media]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Sun, 27 Dec 2015 22:46:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[upcoming/calendar]]></title>
-            <description><![CDATA[<article><h1>upcoming/calendar</h1><p>Mai 16</p></article>]]></description>
+            <title><![CDATA[calendar]]></title>
+            <description><![CDATA[<article><h1>calendar</h1><p>Mai 16</p></article>]]></description>
             <link>https://thegrid.ai/georg-streuber/upcomingcalendar/index.html</link>
             <guid isPermaLink="false">241db235-6216-47f1-ba52-9f3c8797a133</guid>
-            <pubDate>Fri, 22 Apr 2016 20:07:16 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2016 20:07:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
