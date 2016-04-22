@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-22T18:27:35.319Z'
-dateModified: '2016-04-22T18:27:29.223Z'
+datePublished: '2016-04-22T18:29:21.421Z'
+dateModified: '2016-04-22T18:29:19.025Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-georg-streuber-begann-seine-gesangsausbildung-in-seiner-heim.md
