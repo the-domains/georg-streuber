@@ -16,8 +16,8 @@ keywords:
   - streuber
   - prokofiev
 description: "Max Doehlemann: from \"7 Songs on Shakespeare's Sonnets\" No. 2 - Sonnet 18 Georg Streuber, baritone Max Doehlemann, piano www.songs-of-the-clown.com"
-datePublished: '2016-04-29T22:12:59.264Z'
-dateModified: '2016-04-29T22:12:27.047Z'
+datePublished: '2016-04-29T22:13:24.915Z'
+dateModified: '2016-04-29T22:13:07.837Z'
 author:
   - name: Da HerrMox
     url: 'https://www.youtube.com/user/daherrmox'
@@ -61,6 +61,8 @@ app_links:
     namespace: google
     type: ios
 title: 'Max Doehlemann: Sonnet 18 (Shakespeare)'
+sourcePath: _posts/2016-04-29-max-doehlemann-sonnet-18-shakespeare.md
+published: true
 authors: []
 publisher:
   name: YouTube
@@ -68,8 +70,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-04-29-max-doehlemann-sonnet-18-shakespeare.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
