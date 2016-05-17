@@ -4,7 +4,7 @@
         <description><![CDATA[artist website]]></description>
         <link>https://thegrid.ai/georg-streuber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 22:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 05:46:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/georg-streuber/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[media]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Fri, 29 Apr 2016 17:37:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[calendar]]></title>
+            <description><![CDATA[<article><h1>calendar</h1><p>Mai 16</p></article>]]></description>
+            <link>https://thegrid.ai/georg-streuber/upcomingcalendar/index.html</link>
+            <guid isPermaLink="false">241db235-6216-47f1-ba52-9f3c8797a133</guid>
+            <pubDate>Tue, 17 May 2016 05:46:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Max Doehlemann: Sonnet 18 (Shakespeare)]]></title>
             <description><![CDATA[<article><h1>Max Doehlemann: Sonnet 18 (Shakespeare)</h1><p>Max Doehlemann: from "7 Songs on Shakespeare's Sonnets" No. 2 - Sonnet 18 Georg Streuber, baritone Max Doehlemann, piano www.songs-of-the-clown.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5db7b45dfae2158cd8aaf0c0c9657354e68a0081.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=RV2y2bJVfww</link>
             <guid isPermaLink="false">9bbdcead-0230-4c0b-98f1-7421ea80f259</guid>
             <pubDate>Fri, 29 Apr 2016 22:14:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[calendar]]></title>
-            <description><![CDATA[<article><h1>calendar</h1><p>Mai 16</p></article>]]></description>
-            <link>https://thegrid.ai/georg-streuber/upcomingcalendar/index.html</link>
-            <guid isPermaLink="false">241db235-6216-47f1-ba52-9f3c8797a133</guid>
-            <pubDate>Fri, 29 Apr 2016 17:59:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
