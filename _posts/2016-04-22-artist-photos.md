@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-22T18:58:52.360Z'
-dateModified: '2016-04-22T18:58:51.841Z'
+datePublished: '2016-05-17T05:47:02.478Z'
+dateModified: '2016-04-22T19:28:40.723Z'
 title: ''
 author: []
 authors: []
@@ -16,9 +16,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-22-artist-photos.md
-published: true
+starred: true
 _type: Blurb
 
 ---
