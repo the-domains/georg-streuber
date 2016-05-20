@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[artist website]]></title>
-        <description><![CDATA[artist website]]></description>
+        <title><![CDATA[Georg Streuber]]></title>
+        <description><![CDATA[Georg Streuber]]></description>
         <link>https://thegrid.ai/georg-streuber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 19:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 19:44:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/georg-streuber/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[media]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>calendar</h1><p>Mai 16</p></article>]]></description>
             <link>https://thegrid.ai/georg-streuber/calendar/index.html</link>
             <guid isPermaLink="false">241db235-6216-47f1-ba52-9f3c8797a133</guid>
-            <pubDate>Tue, 17 May 2016 19:14:25 GMT</pubDate>
+            <pubDate>Fri, 20 May 2016 19:44:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Max Doehlemann: Sonnet 18 (Shakespeare)]]></title>
