@@ -5,12 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: studies
-datePublished: '2016-04-22T20:30:27.515Z'
-dateModified: '2016-04-22T20:14:20.115Z'
+datePublished: '2016-05-22T12:53:19.524Z'
+dateModified: '2016-04-22T20:30:35.516Z'
 title: ''
 author: []
 sourcePath: _posts/2015-12-27-biography.md
-published: true
 authors: []
 publisher:
   name: null
