@@ -1,16 +1,15 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Johann Sebastian Bach, BWV 75, 194'
-datePublished: '2016-04-22T19:28:26.089Z'
-dateModified: '2016-04-22T19:28:14.905Z'
+datePublished: '2016-05-22T12:52:54.745Z'
+dateModified: '2016-04-22T19:28:39.302Z'
 title: ''
 author: []
 sourcePath: _posts/2015-12-27-discography.md
-published: true
 authors: []
 publisher:
   name: null
@@ -19,7 +18,7 @@ publisher:
   favicon: null
 starred: false
 url: discography/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86994bd7-c864-4441-87be-cb0c5a9f60d7.jpg)
