@@ -4,20 +4,20 @@
         <description><![CDATA[artist page]]></description>
         <link>http://georgstreuber.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 09:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 09:23:33 GMT</lastBuildDate>
         <atom:link href="http://georgstreuber.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FuGAon0z2YcM&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuGAon0z2YcM&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FuGAon0z2YcM%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/uGAon0z2YcM</link>
+            <guid isPermaLink="false">923a6961-c65e-4417-ac27-3ebb2c73e7df</guid>
+            <pubDate>Wed, 01 Jun 2016 09:22:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Richard Strauss - Cäcilie Op. 27, No. 2 (2013)]]></title>
             <description><![CDATA[<article><h1>Richard Strauss - Cäcilie Op. 27, No. 2 (2013)</h1><p>Georg Streuber - Bariton Ulrike Siedel - Klavier Dresden 2013 http://www.georg-streuber.de Filmproduktion: ravir (http://www.ravir.de)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0200f78bb4ff943f98282d8c62950db95973d126.jpg"></article>]]></description>
             <link>https://youtu.be/vv81eCn49OM</link>
             <guid isPermaLink="false">8c99f722-dacc-4cac-8e23-51a58cbaa341</guid>
-            <pubDate>Wed, 01 Jun 2016 09:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Auf dem Flusse, Winterreise D911, Franz Schubert]]></title>
-            <description><![CDATA[<article><h1>Auf dem Flusse, Winterreise D911, Franz Schubert</h1><p>Bariton: Georg Streuber Klavier: Afra Su</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec9d11152e0cd1d66c871f05547a8f667142ca97.jpg"></article>]]></description>
-            <link>https://youtu.be/jxsAnpIITjU</link>
-            <guid isPermaLink="false">02f622d2-a331-43ad-b4f4-d045eb17a8ef</guid>
             <pubDate>Wed, 01 Jun 2016 09:22:38 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +68,6 @@
             <link>http://georgstreuber.com/calendar/index.html</link>
             <guid isPermaLink="false">241db235-6216-47f1-ba52-9f3c8797a133</guid>
             <pubDate>Wed, 01 Jun 2016 08:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trailer zu Kiss me, Kate]]></title>
-            <description><![CDATA[<article><h1>Trailer zu Kiss me, Kate</h1><p>Musical von Cole Porter, Samuel und Bella Spewack ¬ Deutsch von Günter Neumann ¬ ab 12 Jahren Musikalische Leitung Thomas Peuschel Regie Christian Poewe Bühne/Kostüme Tilo Staudte Choreografie Amy Share-Kissiov Dramaturgie Vera Gertz Fred Graham (Petruchio) Hinrich Horn Lilli Vanessi (Katharina) Sonja Westermann, Bill Calhoun (Lucentio) Maximilian Nowka a. G.</p></article>]]></description>
-            <link>https://youtu.be/kIaz-idYE1U</link>
-            <guid isPermaLink="false">6a9af2e5-d21a-4934-b28c-2da85e7068cc</guid>
-            <pubDate>Mon, 30 May 2016 14:25:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
