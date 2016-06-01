@@ -4,7 +4,7 @@
         <description><![CDATA[artist page]]></description>
         <link>http://georgstreuber.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 08:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 08:49:29 GMT</lastBuildDate>
         <atom:link href="http://georgstreuber.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[media]]></title>
@@ -12,6 +12,20 @@
             <link>http://georgstreuber.com/media/index.html</link>
             <guid isPermaLink="false">fa7e8960-93bd-4c2e-8560-e88fe670502e</guid>
             <pubDate>Fri, 29 Apr 2016 17:37:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sonnet 116 (Shakespeare)]]></title>
+            <description><![CDATA[<article><h1>Sonnet 116 (Shakespeare)</h1><p>director/ camera: Ron Rosenberg Play: Georg Streuber, Sabrina Strehl, Amiya Bhagwati, Annette Rentz-Lühning edit/ colour correction: Astrida Konstante music: Max Doehlemann (from: 7 Songs on Shakespeare's Sonnets) Georg Streuber, baritone Max Doehlemann, piano</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dff40ccb2eac8a4eaaf98af42da8c7dc5f712e1.jpg"></article>]]></description>
+            <link>https://youtu.be/Bb1iT0nHIdw</link>
+            <guid isPermaLink="false">ea091cdd-8d18-439b-892f-18251c9b9bfd</guid>
+            <pubDate>Wed, 01 Jun 2016 08:49:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Max Doehlemann: Sonnet 65 (from '7 Songs on Shakespeare's Sonnets)]]></title>
+            <description><![CDATA[<article><h1>Max Doehlemann: Sonnet 65 (from '7 Songs on Shakespeare's Sonnets)</h1><p>Max Doehlemann: Sonnet 65 (from '7 Songs on Shakespeare's Sonnets') Georg Streuber, baritone Max Doehlemann, piano available on CD "Songs of the Clown" MG-Audio, LC 24665</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59ae234630f0fa8066a5bb417741c82277644804.jpg"></article>]]></description>
+            <link>https://youtu.be/MBaNHmH_NXs</link>
+            <guid isPermaLink="false">28e4814c-5f5f-4007-b0e5-8a473715997a</guid>
+            <pubDate>Wed, 01 Jun 2016 08:49:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[calendar]]></title>
