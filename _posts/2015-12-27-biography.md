@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'opera '
-datePublished: '2016-06-01T08:35:42.075Z'
-dateModified: '2016-06-01T08:35:30.554Z'
+datePublished: '2016-06-01T08:36:25.623Z'
+dateModified: '2016-06-01T08:35:49.105Z'
 title: ''
 author: []
 sourcePath: _posts/2015-12-27-biography.md
