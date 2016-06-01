@@ -1,16 +1,19 @@
 ---
-authors: []
-dateModified: '2016-05-20T20:08:30.721Z'
-description: ''
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
+inLanguage: null
 keywords: []
+description: ''
+datePublished: '2016-06-01T08:25:46.715Z'
+dateModified: '2016-06-01T08:24:41.891Z'
 title: ''
 author: []
-starred: true
-datePublished: '2016-05-20T20:08:40.577Z'
 sourcePath: _posts/2016-04-22-artist-photos.md
+authors: []
+publisher: null
+starred: true
 _type: Blurb
 
 ---
