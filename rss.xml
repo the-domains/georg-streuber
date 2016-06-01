@@ -4,8 +4,15 @@
         <description><![CDATA[artist page]]></description>
         <link>http://georgstreuber.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 09:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 09:22:47 GMT</lastBuildDate>
         <atom:link href="http://georgstreuber.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Auf dem Flusse, Winterreise D911, Franz Schubert]]></title>
+            <description><![CDATA[<article><h1>Auf dem Flusse, Winterreise D911, Franz Schubert</h1><p>Bariton: Georg Streuber Klavier: Afra Su</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec9d11152e0cd1d66c871f05547a8f667142ca97.jpg"></article>]]></description>
+            <link>https://youtu.be/jxsAnpIITjU</link>
+            <guid isPermaLink="false">02f622d2-a331-43ad-b4f4-d045eb17a8ef</guid>
+            <pubDate>Wed, 01 Jun 2016 09:22:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FAMYyiywrZr0&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAMYyiywrZr0&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FAMYyiywrZr0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -68,13 +75,6 @@
             <link>http://georgstreuber.com/discography/index.html</link>
             <guid isPermaLink="false">6cf271e8-65cd-4cb7-95b7-54908baf71ec</guid>
             <pubDate>Sun, 22 May 2016 12:52:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Max Doehlemann: Sonnet 18 (Shakespeare)]]></title>
-            <description><![CDATA[<article><h1>Max Doehlemann: Sonnet 18 (Shakespeare)</h1><p>Max Doehlemann: from "7 Songs on Shakespeare's Sonnets" No. 2 - Sonnet 18 Georg Streuber, baritone Max Doehlemann, piano www.songs-of-the-clown.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5db7b45dfae2158cd8aaf0c0c9657354e68a0081.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=RV2y2bJVfww</link>
-            <guid isPermaLink="false">9bbdcead-0230-4c0b-98f1-7421ea80f259</guid>
-            <pubDate>Fri, 29 Apr 2016 22:14:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
