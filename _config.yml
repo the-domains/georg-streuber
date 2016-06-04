@@ -1,20 +1,4 @@
-name: Georg Streuber
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.698479
-title: artist page
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#0B0803'
@@ -24,6 +8,11 @@ color:
     - '#5B5D5C'
   brandStrength: 0.375
   lightness: 0.625
-  saturation: 0.1875
   rhythmicContrast: 0.75
+  saturation: 0.1875
+cta: {}
+layout_spectrum: 0
+name: Georg Streuber
+opengraph: {}
 purpose: []
+typography_spectrum: 0.698479
