@@ -1,4 +1,5 @@
-analytics: {}
+layout_spectrum: 0.3379123501945287
+typography_spectrum: 0.6691121109761298
 color:
   brandColors:
     - '#0B0803'
@@ -6,13 +7,12 @@ color:
     - '#BDCAD0'
     - '#FFFFF2'
     - '#5B5D5C'
-  brandStrength: 0.375
-  lightness: 0.625
-  rhythmicContrast: 0.75
-  saturation: 0.1875
+  brandStrength: 0.9281105203554034
+  lightness: 0.8376409432385117
+  rhythmicContrast: 0.42749325139448047
+  saturation: 0.7463272041641176
+analytics: {}
 cta: {}
-layout_spectrum: 0
 name: Georg Streuber
 opengraph: {}
 purpose: []
-typography_spectrum: 0.698479
