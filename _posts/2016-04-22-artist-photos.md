@@ -1,21 +1,20 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: ''
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-17T09:07:53.331Z'
-dateModified: '2016-06-17T09:07:40.309Z'
-title: artist photo GS
+title: ''
+datePublished: '2016-08-20T09:19:03.035Z'
+dateModified: '2016-08-20T09:18:59.344Z'
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-22-artist-photos.md
-authors: []
-publisher: null
+inFeed: true
+hasPage: false
+inNav: false
+description: ''
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-04-22-artist-photos.md
 _type: Blurb
 
 ---
