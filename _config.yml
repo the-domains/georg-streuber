@@ -23,6 +23,9 @@ navigation:
   - name: bio(ge)
     id: bc73fe7f-a961-4444-8ff7-a34991b2ff1a
     type: content
+  - name: concerts
+    id: 6ce63c67-fd36-486a-86a8-2f8100b58cdd
+    type: content
   - name: bio(en)
     id: 85002b71-6238-4751-9c68-8b615d3a41b4
     type: content
@@ -31,9 +34,6 @@ navigation:
     type: content
   - name: records
     id: 6cf271e8-65cd-4cb7-95b7-54908baf71ec
-    type: content
-  - name: concerts
-    id: 6ce63c67-fd36-486a-86a8-2f8100b58cdd
     type: content
   - name: links
     id: 2d3c9fd2-7b36-4278-b639-a4dca526dc71
