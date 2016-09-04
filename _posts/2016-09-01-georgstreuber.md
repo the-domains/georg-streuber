@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T18:28:23.653Z'
+datePublished: '2016-09-01T19:08:43.067Z'
 sourcePath: _posts/2016-09-01-georgstreuber.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/user/baritondanse'
@@ -12,7 +12,7 @@ author:
     url: 'http://www.youtube.com/user/baritondanse'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T18:28:23.108Z'
+dateModified: '2016-09-01T19:08:42.412Z'
 title: GeorgStreuber
 app_links: []
 publisher: {}
