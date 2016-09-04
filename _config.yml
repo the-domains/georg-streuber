@@ -25,9 +25,6 @@ navigation:
   - name: Impressum
     id: 3166d265-804c-4995-bea3-e7fd58cb8dac
     type: content
-  - name: contact
-    id: 05c44824-152e-4b0e-9ea8-5f755763134f
-    type: content
   - name: media
     id: fa7e8960-93bd-4c2e-8560-e88fe670502e
     type: content
@@ -39,6 +36,9 @@ navigation:
     type: content
   - name: records
     id: 6cf271e8-65cd-4cb7-95b7-54908baf71ec
+    type: content
+  - name: contact
+    id: 05c44824-152e-4b0e-9ea8-5f755763134f
     type: content
 title: ''
 description: welcome to my artist page
