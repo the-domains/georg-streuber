@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-08-20T09:22:35.004Z'
-dateModified: '2016-08-20T09:22:33.493Z'
+datePublished: '2016-09-01T15:33:09.373Z'
+dateModified: '2016-09-01T15:33:08.755Z'
 author: []
 inFeed: false
 hasPage: true
@@ -16,9 +16,9 @@ description: >-
   bei Prof. Matthias Weichert.
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-04-21-georg-streuber-begann-seine-gesangsausbildung-in-seiner-heim.md
+starred: false
 url: deutsche-biografie/index.html
 _type: WebPage
 
