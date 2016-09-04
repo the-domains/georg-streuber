@@ -32,6 +32,9 @@ navigation:
   - name: records
     id: 6cf271e8-65cd-4cb7-95b7-54908baf71ec
     type: content
+  - name: concerts
+    id: 6ce63c67-fd36-486a-86a8-2f8100b58cdd
+    type: content
   - name: contact
     id: 05c44824-152e-4b0e-9ea8-5f755763134f
     type: content
@@ -40,9 +43,6 @@ navigation:
     type: content
   - name: links
     id: 2d3c9fd2-7b36-4278-b639-a4dca526dc71
-    type: content
-  - name: concerts
-    id: 6ce63c67-fd36-486a-86a8-2f8100b58cdd
     type: content
 title: ''
 description: welcome to my artist page
