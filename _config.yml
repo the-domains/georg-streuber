@@ -16,7 +16,7 @@ analytics: {}
 name: Georg Streuber
 cta: {}
 navigation:
-  - name: calendar google
+  - name: calendar
     id: bc91580f-a19b-401a-bab1-ee96b5c44978
     type: content
 purpose: []
