@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-01T19:24:25.552Z'
+datePublished: '2016-09-01T19:28:49.128Z'
 sourcePath: _posts/2015-12-27-biography.md
 inFeed: false
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T19:24:24.964Z'
+dateModified: '2016-09-01T19:28:48.588Z'
 title: biography
 publisher: {}
 description: (english below)
