@@ -41,6 +41,9 @@ navigation:
   - name: links
     id: 2d3c9fd2-7b36-4278-b639-a4dca526dc71
     type: content
+  - name: concerts
+    id: 6ce63c67-fd36-486a-86a8-2f8100b58cdd
+    type: content
 title: ''
 description: welcome to my artist page
 purpose: []
