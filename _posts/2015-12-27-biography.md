@@ -1,22 +1,34 @@
 ---
-datePublished: '2016-09-01T15:57:19.413Z'
+datePublished: '2016-09-01T19:24:25.552Z'
 sourcePath: _posts/2015-12-27-biography.md
 inFeed: false
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T15:57:18.960Z'
+dateModified: '2016-09-01T19:24:24.964Z'
 title: biography
 publisher: {}
-description: opera
+description: (english below)
 inNav: true
 starred: false
 url: artistphoto-georg-streuber/index.html
 _type: WebPage
 
 ---
-# biography
+(english below)
+
+**Georg Streuber** studierte Gesang an der Hochschule für Musik Dresden bei Prof. Matthias Weichert, wo er im Rahmen der Opern- und Liedklasse von Andreas Baumann und Olaf Bär, seine Kenntnisse auch bei Gastdozenten wie Gerold Huber, Anne Le Bozec, Didier Henry, Peter Schreier, Evelyn Herlitzius und Camilla Nylund in beiden Gattungen vertiefen konnte. Nach erfolgreicher Beendigung des Studiums 2013 sind KS Magdalena Majossyová, Martin Snell und Allison Oakes als wichtigste Lehrer zu nennen.
+
+Bereits vor dem Studium, sammelte der in Chemnitz gebürtige Bariton erste Erfahrungen im Kinderchor an der Oper Chemnitz und später als Schüler von Prof. Regine Köbler und Sebastian Richter. Als Konzertsänger seit 2003 ununterbrochen tätig, sind Oratorien und Liederabende ein Schwerpunkt seiner freischaffenden Tätigkeit.
+
+Wettbewerbspreise erlangte er zuerst bei den Bundeswettbewerben „Jugend Musiziert" 2005 im Solo und 2007 mit einem a capella Ensemble. 2011 den ersten Preis beim internationalen „Duschek Wettbewerb" in Prag und 2012 den Sonderpreis für Liedgestaltung beim Lions-Gesangswettbewerb in Bad Endorf.
+
+Nach dem Operndebüt als Papageno in einer Studioproduktion von Mozarts Zauberflöte 2007 in Chemnitz, schlossen sich 2009 bei den Opernfestspielen in Bad Hersfeld die Partie des Dr. Cajus in Otto Nicolais Komischer Oper „Die lustigen Weiber von Windsor" und 2010 die Partien des Mr. Winterbottom und Dr. Nischel in zwei zeitgenössischen Kammeropern von Martin Hecker an der Semperoper Dresden, kleine Szene. 2011 war er beim 100° Festival in Berlin in der Operncollage mit Ausschnitten aus Hans Gals Oper „Die heilige Ente" als Mandarin zu erleben.
+
+Seit 2014 ist er regelmäßiger Gast am Theater Plauen-Zwickau in Produktionen wie „Cherubino mischt sich ein", „Der gestiefelte Kater", „Kiss me Kate" und „Ritter Blaubart".
+
+## biography
 
 opera
 
