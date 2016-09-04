@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T19:08:43.067Z'
+datePublished: '2016-09-01T19:09:39.005Z'
 sourcePath: _posts/2016-09-01-georgstreuber.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/user/baritondanse'
@@ -12,14 +12,14 @@ author:
     url: 'http://www.youtube.com/user/baritondanse'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T19:08:42.412Z'
+dateModified: '2016-09-01T19:09:38.635Z'
 title: GeorgStreuber
 app_links: []
 publisher: {}
 description: Chosen arias and songs interpreted by the baritone Georg Streuber.
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
