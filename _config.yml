@@ -19,9 +19,6 @@ navigation:
   - name: calendar
     id: bc91580f-a19b-401a-bab1-ee96b5c44978
     type: content
-  - name: media
-    id: 6a9af2e5-d21a-4934-b28c-2da85e7068cc
-    type: content
 title: ''
 description: welcome to my artist page
 purpose: []
