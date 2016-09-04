@@ -25,4 +25,7 @@ navigation:
   - name: bio
     id: bc73fe7f-a961-4444-8ff7-a34991b2ff1a
     type: content
+  - name: impressum
+    id: 3166d265-804c-4995-bea3-e7fd58cb8dac
+    type: content
 purpose: []
