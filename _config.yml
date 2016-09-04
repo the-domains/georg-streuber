@@ -29,11 +29,11 @@ navigation:
   - name: media
     id: fa7e8960-93bd-4c2e-8560-e88fe670502e
     type: content
-  - name: calendar
-    id: 1d1933d4-304c-479d-ab34-b9e87f7abe7e
-    type: content
   - name: concerts
     id: 6ce63c67-fd36-486a-86a8-2f8100b58cdd
+    type: content
+  - name: calendar
+    id: 1d1933d4-304c-479d-ab34-b9e87f7abe7e
     type: content
   - name: records
     id: 6cf271e8-65cd-4cb7-95b7-54908baf71ec
