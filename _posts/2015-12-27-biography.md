@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-09-01T15:30:53.188Z'
-dateModified: '2016-08-20T09:19:24.678Z'
+datePublished: '2016-09-01T15:33:45.910Z'
+dateModified: '2016-09-01T15:33:44.951Z'
 author: []
 inFeed: false
 hasPage: true
@@ -10,8 +10,8 @@ inNav: true
 description: 'opera '
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2015-12-27-biography.md
+starred: false
 url: artistphoto-georg-streuber/index.html
 _type: WebPage
 
