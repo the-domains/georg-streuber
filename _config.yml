@@ -19,9 +19,6 @@ navigation:
   - name: calendar
     id: bc91580f-a19b-401a-bab1-ee96b5c44978
     type: content
-  - name: impressum
-    id: 3166d265-804c-4995-bea3-e7fd58cb8dac
-    type: content
   - name: bio(en)
     id: 85002b71-6238-4751-9c68-8b615d3a41b4
     type: content
