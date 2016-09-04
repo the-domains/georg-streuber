@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Johann Sebastian Bach, BWV 75, 194'
-datePublished: '2016-05-22T12:52:54.745Z'
-dateModified: '2016-04-22T19:28:39.302Z'
+datePublished: '2016-09-01T15:30:48.300Z'
+dateModified: '2016-07-24T21:58:43.525Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-27-discography.md
 authors: []
 publisher:
@@ -16,15 +18,16 @@ publisher:
   domain: null
   url: null
   favicon: null
+via: {}
 starred: false
 url: discography/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86994bd7-c864-4441-87be-cb0c5a9f60d7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9cc492cb50091e7fc626c409941d924de4ac2a5.jpg)
 
 [Shakespeare songs of the clown][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18600e3f-d641-4864-9d01-3f140f3daeb4.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3c99c13a45579247e26607303fcd945cdfd2e43.png)
 
 [Johann Sebastian Bach, ][1][BWV 75, 194][1]
 
