@@ -1,17 +1,18 @@
 ---
-authors: []
-dateModified: '2016-05-22T12:53:32.972Z'
-datePublished: '2016-06-01T08:28:50.332Z'
-description: Internetseiten-Betreiber
-hasPage: true
 inFeed: false
+hasPage: true
 inNav: true
+inLanguage: null
 keywords: []
-publisher: null
+description: Internetseiten-Betreiber
+datePublished: '2016-09-01T15:30:36.644Z'
+dateModified: '2016-06-01T08:28:57.401Z'
 title: Impressum
 author: []
-starred: false
 sourcePath: _posts/2016-04-21-impressum.md
+authors: []
+publisher: null
+starred: false
 url: impressum/index.html
 _context: 'http://schema.org'
 _type: Article
