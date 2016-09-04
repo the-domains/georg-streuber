@@ -1,18 +1,17 @@
 ---
+keywords: []
+title: ''
+datePublished: '2016-09-01T15:30:53.188Z'
+dateModified: '2016-08-20T09:19:24.678Z'
+author: []
 inFeed: false
 hasPage: true
 inNav: true
-inLanguage: null
-keywords: []
 description: 'opera '
-datePublished: '2016-06-01T08:36:25.623Z'
-dateModified: '2016-06-01T08:35:49.105Z'
-title: ''
-author: []
-sourcePath: _posts/2015-12-27-biography.md
-authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2015-12-27-biography.md
 url: artistphoto-georg-streuber/index.html
 _type: WebPage
 
@@ -48,8 +47,7 @@ Solo concerts:
 direttore d'orchestra: Andrea Barizza-2011  
 ensemble
 
-* Founding member of Ensemble Agenda St. Jacob, Chemnitz- 
-2011 to present
+* Founding member of Ensemble Agenda St. Jacob, Chemnitz- 2011 to present
 * Bayreuther Festspielchor: 2012 - present
 * Berlin Radio Choir substitute: 2012- present
 * RIAS chamber choir, Berlin: intern, 2011 
