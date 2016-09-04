@@ -26,9 +26,6 @@ navigation:
   - name: media
     id: fa7e8960-93bd-4c2e-8560-e88fe670502e
     type: content
-  - name: bio(ge)
-    id: bc73fe7f-a961-4444-8ff7-a34991b2ff1a
-    type: content
   - name: bio(en)
     id: 85002b71-6238-4751-9c68-8b615d3a41b4
     type: content
