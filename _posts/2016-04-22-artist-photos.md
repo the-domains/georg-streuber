@@ -2,8 +2,9 @@
 isBasedOnUrl: ''
 keywords: []
 title: ''
-datePublished: '2016-08-20T09:19:03.035Z'
-dateModified: '2016-08-20T09:18:59.344Z'
+datePublished: '2016-09-01T15:31:05.595Z'
+dateModified: '2016-08-25T15:56:36.827Z'
+publisher: {}
 author:
   - name: ''
     url: ''
@@ -11,9 +12,8 @@ inFeed: true
 hasPage: false
 inNav: false
 description: ''
-publisher: {}
 via: {}
-starred: false
+starred: true
 sourcePath: _posts/2016-04-22-artist-photos.md
 _type: Blurb
 
