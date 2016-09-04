@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Internetseiten-Betreiber
-datePublished: '2016-09-01T15:33:26.210Z'
-dateModified: '2016-09-01T15:33:25.693Z'
+datePublished: '2016-09-01T15:56:34.944Z'
+dateModified: '2016-09-01T15:56:34.334Z'
 title: Impressum
 author: []
 sourcePath: _posts/2016-04-21-impressum.md
