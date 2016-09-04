@@ -34,6 +34,9 @@ navigation:
   - name: bio(en)
     id: 85002b71-6238-4751-9c68-8b615d3a41b4
     type: content
+  - name: records
+    id: 6cf271e8-65cd-4cb7-95b7-54908baf71ec
+    type: content
 title: ''
 description: welcome to my artist page
 purpose: []
