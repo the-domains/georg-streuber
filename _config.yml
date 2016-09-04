@@ -1,17 +1,17 @@
-typography_spectrum: 0.9841595138423145
+layout_spectrum: 0.34487009420990944
+typography_spectrum: 0.9236564643215388
 color:
   brandColors:
-    - '#B4AF91'
-    - '#787746'
-    - '#40411E'
-    - '#32331D'
-    - '#C03000'
-  brandStrength: 0.1754668524954468
-  lightness: 0.6237620986066759
-  rhythmicContrast: 0.9111398360691965
-  saturation: 0.23875811882317066
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+  brandStrength: 0.4145762878470123
+  lightness: 0.879818971734494
+  rhythmicContrast: 0.3364195239264518
+  saturation: 0.025588190648704767
 opengraph: {}
-layout_spectrum: 0.09233330539427698
 analytics:
   google: UA-83553745-1
 name: Georg Streuber - baritone
