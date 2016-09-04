@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T19:08:11.465Z'
+datePublished: '2016-09-01T19:10:09.338Z'
 sourcePath: _posts/2016-04-22-artist-photos.md
 inFeed: true
 authors: []
@@ -9,13 +9,13 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-01T19:08:11.065Z'
+dateModified: '2016-09-01T19:10:06.562Z'
 title: ''
 publisher: {}
 description: ''
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 url: artist-photo-gs/index.html
 _type: Article
 
