@@ -22,4 +22,7 @@ navigation:
   - name: contact
     id: 05c44824-152e-4b0e-9ea8-5f755763134f
     type: content
+  - name: bio
+    id: bc73fe7f-a961-4444-8ff7-a34991b2ff1a
+    type: content
 purpose: []
