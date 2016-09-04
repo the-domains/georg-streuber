@@ -1,4 +1,3 @@
-layout_spectrum: 0.3625673500355333
 typography_spectrum: 0.9773546659853309
 color:
   brandColors:
@@ -12,6 +11,7 @@ color:
   rhythmicContrast: 0.3364195239264518
   saturation: 0.025588190648704767
 opengraph: {}
+layout_spectrum: 0.3625673500355333
 analytics:
   google: UA-83553745-1
 name: Georg Streuber - baritone
@@ -19,9 +19,6 @@ cta: {}
 navigation:
   - name: home
     id: acdc42e1-23bf-4178-a9f6-8db45cbe91f6
-    type: content
-  - name: concerts
-    id: 6ce63c67-fd36-486a-86a8-2f8100b58cdd
     type: content
   - name: media
     id: fa7e8960-93bd-4c2e-8560-e88fe670502e
