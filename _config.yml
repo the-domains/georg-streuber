@@ -37,6 +37,9 @@ navigation:
   - name: records
     id: 6cf271e8-65cd-4cb7-95b7-54908baf71ec
     type: content
+  - name: media
+    id: fa7e8960-93bd-4c2e-8560-e88fe670502e
+    type: content
 title: ''
 description: welcome to my artist page
 purpose: []
