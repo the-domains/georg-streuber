@@ -35,11 +35,11 @@ navigation:
   - name: concerts
     id: 6ce63c67-fd36-486a-86a8-2f8100b58cdd
     type: content
-  - name: contact
-    id: 05c44824-152e-4b0e-9ea8-5f755763134f
-    type: content
   - name: links
     id: 2d3c9fd2-7b36-4278-b639-a4dca526dc71
+    type: content
+  - name: contact
+    id: 05c44824-152e-4b0e-9ea8-5f755763134f
     type: content
   - name: impressum
     id: 3166d265-804c-4995-bea3-e7fd58cb8dac
