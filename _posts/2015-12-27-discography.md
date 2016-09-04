@@ -1,23 +1,25 @@
 ---
-datePublished: '2016-09-01T17:46:54.212Z'
-sourcePath: _posts/2015-12-27-discography.md
-inFeed: true
-authors: []
+inFeed: false
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
+description: Discographie
+datePublished: '2016-09-01T18:08:35.070Z'
+dateModified: '2016-09-01T18:07:59.519Z'
+sourcePath: _posts/2015-12-27-discography.md
 author: []
 via: {}
-dateModified: '2016-09-01T17:46:53.234Z'
 title: ''
+authors: []
 publisher:
   name: MG Audio
+  domain: null
   url: 'http://www.mg-audio.de/html/cds.html'
-description: Discographie
-inLanguage: null
-inNav: true
+  favicon: null
 starred: false
 url: discography/index.html
-_type: Article
+_type: WebPage
 
 ---
 Discographie
