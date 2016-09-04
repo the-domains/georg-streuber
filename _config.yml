@@ -22,6 +22,9 @@ navigation:
   - name: home
     id: acdc42e1-23bf-4178-a9f6-8db45cbe91f6
     type: content
+  - name: Impressum
+    id: 3166d265-804c-4995-bea3-e7fd58cb8dac
+    type: content
 title: ''
 description: welcome to my artist page
 purpose: []
