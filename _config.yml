@@ -31,4 +31,7 @@ navigation:
   - name: bio(en)
     id: 85002b71-6238-4751-9c68-8b615d3a41b4
     type: content
+  - name: media
+    id: 6a9af2e5-d21a-4934-b28c-2da85e7068cc
+    type: content
 purpose: []
