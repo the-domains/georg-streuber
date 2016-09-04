@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T15:57:35.371Z'
+datePublished: '2016-09-01T16:49:00.174Z'
 sourcePath: _posts/2015-12-27-discography.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-01T15:57:34.713Z'
+dateModified: '2016-09-01T16:48:58.382Z'
 title: ''
 publisher:
   name: MG Audio
