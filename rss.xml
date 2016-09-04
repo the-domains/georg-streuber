@@ -4,8 +4,15 @@
         <description><![CDATA[Georg Streuber - baritone]]></description>
         <link>http://georgstreuber.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 17:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 17:47:20 GMT</lastBuildDate>
         <atom:link href="http://georgstreuber.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[discography]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9cc492cb50091e7fc626c409941d924de4ac2a5.jpg">]]></description>
+            <link>http://georgstreuber.com/discography/index.html</link>
+            <guid isPermaLink="false">6cf271e8-65cd-4cb7-95b7-54908baf71ec</guid>
+            <pubDate>Thu, 01 Sep 2016 17:46:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[welcome to my artist page]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d13b2e601dc80ea4041e78bedbe0fe83848df461.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>http://georgstreuber.com/1d1933d4-304c-479d-ab34-b9e87f7abe7e/index.html</link>
             <guid isPermaLink="false">1d1933d4-304c-479d-ab34-b9e87f7abe7e</guid>
             <pubDate>Thu, 01 Sep 2016 17:29:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[discography]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9cc492cb50091e7fc626c409941d924de4ac2a5.jpg">]]></description>
-            <link>http://georgstreuber.com/discography/index.html</link>
-            <guid isPermaLink="false">6cf271e8-65cd-4cb7-95b7-54908baf71ec</guid>
-            <pubDate>Thu, 01 Sep 2016 17:16:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[media]]></title>
