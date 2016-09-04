@@ -4,8 +4,15 @@
         <description><![CDATA[Georg Streuber - baritone]]></description>
         <link>http://georgstreuber.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 17:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 17:29:49 GMT</lastBuildDate>
         <atom:link href="http://georgstreuber.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>calendar</p>]]></description>
+            <link>http://georgstreuber.com/1d1933d4-304c-479d-ab34-b9e87f7abe7e/index.html</link>
+            <guid isPermaLink="false">1d1933d4-304c-479d-ab34-b9e87f7abe7e</guid>
+            <pubDate>Thu, 01 Sep 2016 17:29:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GeorgStreuber]]></title>
             <description><![CDATA[<article><h1>GeorgStreuber</h1><p>google-site-verification: google1a40fcd8c17c1978.html</p></article>]]></description>
@@ -19,12 +26,6 @@
             <link>http://georgstreuber.com/artist-photo-gs/index.html</link>
             <guid isPermaLink="false">acdc42e1-23bf-4178-a9f6-8db45cbe91f6</guid>
             <pubDate>Thu, 01 Sep 2016 17:07:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>http://georgstreuber.com/1d1933d4-304c-479d-ab34-b9e87f7abe7e/index.html</link>
-            <guid isPermaLink="false">1d1933d4-304c-479d-ab34-b9e87f7abe7e</guid>
-            <pubDate>Thu, 01 Sep 2016 17:04:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[discography]]></title>
