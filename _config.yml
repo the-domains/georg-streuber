@@ -19,4 +19,7 @@ navigation:
   - name: calendar
     id: bc91580f-a19b-401a-bab1-ee96b5c44978
     type: content
+  - name: contact
+    id: 05c44824-152e-4b0e-9ea8-5f755763134f
+    type: content
 purpose: []
