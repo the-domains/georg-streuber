@@ -12,7 +12,8 @@ color:
   saturation: 0.23875811882317066
 opengraph: {}
 layout_spectrum: 0.09233330539427698
-analytics: {}
+analytics:
+  google: google1a40fcd8c17c1978.html
 name: Georg Streuber - baritone
 cta: {}
 navigation:
