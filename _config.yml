@@ -13,7 +13,7 @@ color:
 opengraph: {}
 layout_spectrum: 0.09233330539427698
 analytics: {}
-name: Georg Streuber
+name: Georg Streuber - baritone
 cta: {}
 navigation:
   - name: calendar
@@ -34,5 +34,5 @@ navigation:
   - name: media
     id: 6a9af2e5-d21a-4934-b28c-2da85e7068cc
     type: content
-title: Georg Streuber - baritone
+title: ''
 purpose: []
