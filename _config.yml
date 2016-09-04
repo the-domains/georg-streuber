@@ -40,6 +40,9 @@ navigation:
   - name: impressum
     id: 3166d265-804c-4995-bea3-e7fd58cb8dac
     type: content
+  - name: verification
+    url: google1a40fcd8c17c1978.html
+    type: external
 title: ''
 description: welcome to my artist page
 purpose: []
