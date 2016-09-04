@@ -5,13 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Internetseiten-Betreiber
-datePublished: '2016-09-01T15:30:36.644Z'
-dateModified: '2016-06-01T08:28:57.401Z'
+datePublished: '2016-09-01T15:33:26.210Z'
+dateModified: '2016-09-01T15:33:25.693Z'
 title: Impressum
 author: []
 sourcePath: _posts/2016-04-21-impressum.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: impressum/index.html
 _context: 'http://schema.org'
