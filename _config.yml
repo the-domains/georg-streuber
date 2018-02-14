@@ -1,43 +1,86 @@
-typography_spectrum: 0.9773546659853309
+layout_spectrum: 0.12989042989227292
+typography_spectrum: 0.8451168294595831
 color:
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-  brandStrength: 0.4145762878470123
-  lightness: 0.879818971734494
-  rhythmicContrast: 0.3364195239264518
-  saturation: 0.025588190648704767
-opengraph: {}
-layout_spectrum: 0.3625673500355333
-analytics:
-  google: UA-83553745-1
-name: Georg Streuber - baritone
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  brandStrength: 0.849054257504476
+  lightness: 0.19763912217018406
+  saturation: 0.010679201017696373
+  rhythmicContrast: 0.64345102989456
+name: Georg Streuber - Bariton
 cta: {}
+analytics:
+  facebook: ''
+  google: UA-83553745-1
+  twitter: ''
+opengraph: {}
+purpose: []
+title: ''
+description: Georg Streuber - bariton
 navigation:
-  - name: home
-    id: acdc42e1-23bf-4178-a9f6-8db45cbe91f6
+  - name: calendar
+    id: 6ce63c67-fd36-486a-86a8-2f8100b58cdd
     type: content
   - name: media
     id: fa7e8960-93bd-4c2e-8560-e88fe670502e
     type: content
-  - name: vita(de/en)
-    id: 85002b71-6238-4751-9c68-8b615d3a41b4
-    type: content
   - name: records
     id: 6cf271e8-65cd-4cb7-95b7-54908baf71ec
     type: content
-  - name: links
-    id: 2d3c9fd2-7b36-4278-b639-a4dca526dc71
+  - name: concert-oratorio-lied
+    id: aada3710-3365-4c72-8958-77ee6691a0ce
+    type: content
+  - name: opera productions
+    id: c913eb00-f23a-4dc5-b453-040d9c0e33fa
+    type: content
+  - name: vita
+    id: 85002b71-6238-4751-9c68-8b615d3a41b4
     type: content
   - name: contact
-    id: 05c44824-152e-4b0e-9ea8-5f755763134f
+    id: 6e9a3c9a-b15f-4d1a-959a-e92baa282130
     type: content
-  - name: impressum
-    id: 3166d265-804c-4995-bea3-e7fd58cb8dac
-    type: content
-title: ''
-description: ''
-purpose: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq5DsJ1ywebA&src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fq5DsJ1ywebA%3Ffeature%3Doembed&type=text%2Fhtml&key=b7d04c9b404c499eba89ee7072e1c4f7&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      '@type': VideoObject
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/q5DsJ1ywebA'
+      inLanguage: en
+      keywords:
+        - georgstreuber
+        - duration
+        - strauss
+        - views
+        - richard
+        - cilie
+        - heimliche
+        - chainsmokersvevo
+        - aufforderung
+        - seele
+      title: slideshow artist pics of Georg Streuber by Dominique Caillat
+      publisher:
+        name: YouTube
+        domain: youtu.be
+        url: 'https://www.youtube.com/'
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+      author:
+        - name: GeorgStreuber
+          url: 'https://www.youtube.com/user/baritondanse'
+          avatar: {}
+      starred: false
+      description: Uploaded by GeorgStreuber on 2017-02-01.
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
